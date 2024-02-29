@@ -13,3 +13,23 @@ export default function SearchBox({ search, onSearchChange }) {
     </div>
   );
 }
+
+/**
+ * // NECESSARY IMPORTS
+ * import React from 'react';
+ *
+ * const SearchBox = () => {
+ * // LOGIC
+ *  const doSomething = () => {
+ *    return "Something";
+ *  }
+ *
+ * // RETURN - Component as HTML
+ *  return (
+ *   <div>{doSomething()}</div>
+ *  );
+ * }
+ *
+ * // EXPORT THE COMPONENT - so other files can use it
+ * export default SearchBox;
+ */
