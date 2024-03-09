@@ -1,0 +1,147 @@
+[
+    {
+      "name": "Apples",
+      "price": 2.49,
+      "category": "Produce"
+    },
+    {
+      "name": "Milk",
+      "price": 3.79,
+      "category": "Dairy"
+    },
+    {
+      "name": "Bread",
+      "price": 1.99,
+      "category": "Bakery"
+    },
+    {
+      "name": "Eggs",
+      "price": 2.99,
+      "category": "Dairy"
+    },
+    {
+      "name": "Chicken Breasts",
+      "price": 5.99,
+      "category": "Meat"
+    },
+    {
+      "name": "Bananas",
+      "price": 1.49,
+      "category": "Produce"
+    },
+    {
+      "name": "Cheese",
+      "price": 4.99,
+      "category": "Dairy"
+    },
+    {
+      "name": "Lettuce",
+      "price": 1.79,
+      "category": "Produce"
+    },
+    {
+      "name": "Yogurt",
+      "price": 2.29,
+      "category": "Dairy"
+    },
+    {
+      "name": "Ground Beef",
+      "price": 4.59,
+      "category": "Meat"
+    },
+    {
+      "name": "Oranges",
+      "price": 2.99,
+      "category": "Produce"
+    },
+    {
+      "name": "Butter",
+      "price": 3.49,
+      "category": "Dairy"
+    },
+    {
+      "name": "Tomatoes",
+      "price": 1.99,
+      "category": "Produce"
+    },
+    {
+      "name": "Cereal",
+      "price": 4.29,
+      "category": "Breakfast"
+    },
+    {
+      "name": "Pasta",
+      "price": 1.39,
+      "category": "Pantry"
+    },
+    {
+      "name": "Coffee",
+      "price": 7.99,
+      "category": "Beverages"
+    },
+    {
+      "name": "Potatoes",
+      "price": 2.19,
+      "category": "Produce"
+    },
+    {
+      "name": "Oatmeal",
+      "price": 3.79,
+      "category": "Breakfast"
+    },
+    {
+      "name": "Rice",
+      "price": 2.49,
+      "category": "Pantry"
+    },
+    {
+      "name": "Ice Cream",
+      "price": 4.99,
+      "category": "Frozen"
+    },
+    {
+      "name": "Chicken Tenders",
+      "price": 6.49,
+      "category": "Meat"
+    },
+    {
+      "name": "Salmon",
+      "price": 9.99,
+      "category": "Seafood"
+    },
+    {
+      "name": "Onions",
+      "price": 0.99,
+      "category": "Produce"
+    },
+    {
+      "name": "Soup",
+      "price": 2.99,
+      "category": "Canned Goods"
+    },
+    {
+      "name": "Paper Towels",
+      "price": 5.49,
+      "category": "Household"
+    },
+    {
+      "name": "Laundry Detergent",
+      "price": 8.99,
+      "category": "Household"
+    },
+    {
+      "name": "Dish Soap",
+      "price": 2.79,
+      "category": "Household"
+    },
+    {
+      "name": "Spices",
+      "price": 3.49,
+      "category": "Pantry"
+    },
+    {
+      "name": "Pasta Sauce",
+      "price": 2.29,
+      "category": "Canned Goods"
+    }
+  ]

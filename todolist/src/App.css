@@ -1,0 +1,16 @@
+.card{
+    background-color: aqua;
+    border: 1px solid;
+    text-align: center;
+    width:12rem;
+    
+    border-radius: 10px;
+    margin: 0.5rem;
+    padding: 2rem;
+}
+
+.card-list{
+    display: flex;
+    
+    
+}
