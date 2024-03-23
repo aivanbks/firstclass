@@ -22,7 +22,8 @@ const y = 3;
  */
 
 const api = 'https://jsonplaceholder.typicode.com/posts/1';
-fetch(api) // "send GET request"
+fetch(api) // "send GET request" ---- fetch also returns a promise
+  // promise
   .then((response) => response.json()) // "when you get a response, convert it to JSON"
   .then((data) => {
     console.log(data);
